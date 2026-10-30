@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-14 -58 428 176" role="img" aria-label="CIMA">
+  <g fill="none" stroke="#fff6ea" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"><path d="M78 24 A40 40 0 1 0 78 76"/><path d="M124 12 V88"/><path d="M170 88 V12 L210 58 L250 12 V88"/></g>
+  <path d="M276 100 L338 -2 L400 100 L354 100 L338 74 L322 100 Z" fill="#ff9a3c" stroke="#ff9a3c" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M338 -2 L366 44 L354 38 L345 50 L334 39 L322 46 L310 44 Z" fill="#fff6ea" stroke="#fff6ea" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M338 -4 V-50" stroke="#fff6ea" stroke-width="6" stroke-linecap="round"/><path d="M341 -50 L372 -40 L341 -30 Z" fill="#fff6ea" stroke="#fff6ea" stroke-width="4" stroke-linejoin="round"/>
+</svg>
